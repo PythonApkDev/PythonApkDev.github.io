@@ -12,9 +12,9 @@ To see advanced Python application projects, go to
 
 ### 1. Python Projects for Beginners
 
-| Project | Progress |
-|---------|----------|
-|         |          |
+| Project                                                                 | Progress |
+|-------------------------------------------------------------------------|----------|
+| [Infinite Battle RPG](beginner-projects/INFINITE_BATTLE_RPG/index.html) | Complete |
 
 ### 2. Advanced Python Application Projects
 

@@ -1,2 +1,3 @@
-# PythonApkDev.github.io
-A repository contains a website for Python application projects for beginners to advanced level.
+# [PythonApkDev.github.io](https://PythonApkDev.github.io/)
+
+Welcome to my page! I am PythonApkDev, a python software developer.

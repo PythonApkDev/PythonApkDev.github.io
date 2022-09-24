@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: INFINITE-BATTLE-RPG
+Version: 1
+Summary: This package contains implementation of the offline RPG "INFINITE_BATTLE_RPG" on command line interface.
+Home-page: https://github.com/PythonApkDev/PythonApkDev.github.io/tree/main/beginner-projects/INFINITE_BATTLE_RPG
+Author: PythonApkDev
+Author-email: pythonapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # INFINITE_BATTLE_RPG
 
 **Infinite Battle RPG** is an offline RPG where the player can face an infinite number of rounds.

@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='INFINITE_BATTLE_RPG',
-    version='1',
+    version='1.1',
     packages=['INFINITE_BATTLE_RPG'],
     url='https://github.com/PythonApkDev/PythonApkDev.github.io/tree/main/beginner-projects/INFINITE_BATTLE_RPG',
     license='MIT',

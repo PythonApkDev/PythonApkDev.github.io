@@ -23,7 +23,7 @@ How the executable file looks like is shown in the image below (the file is encl
 
 ### Image 1
 
-![Executable File](images/Executable File.png)
+![Executable File](images/Executable%20File.png)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ After you run the game, you will be asked to enter your name. Then, you will be 
 
 ### Image 2
 
-![Getting Started](images/Getting Started.png)
+![Getting Started](images/Getting%20Started.png)
 
 ## Main Menu
 
@@ -39,7 +39,7 @@ After you run the game, you will be asked to enter your name. Then, you will be 
 
 After you enter your name, you will be asked whether you want to continue playing the game or not.
 
-![Main Menu](images/Main Menu.png)
+![Main Menu](images/Main%20Menu.png)
 
 ## Gameplay
 

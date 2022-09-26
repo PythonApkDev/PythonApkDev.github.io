@@ -1,12 +1,12 @@
-# [PythonApkDev.github.io - homepage](https://PythonApkDev.github.io/)
+# [PythonApkDev.github.io - homepage](index.html)
 
 Welcome to my page! I am PythonApkDev, a python software developer.
 
 To see Python application projects for beginners, go to 
-[Python Projects for Beginners](https://PythonApkDev.github.io/beginner-projects/).
+[Python Projects for Beginners](beginner-projects/index.html).
 
 To see advanced Python application projects, go to 
-[Advanced Python Application Projects](https://PythonApkDev.github.io/advanced-projects/).
+[Advanced Python Application Projects](advanced-projects/index.html).
 
 ## Table of Contents
 
@@ -18,6 +18,6 @@ To see advanced Python application projects, go to
 
 ### 2. Advanced Python Application Projects
 
-| Project | Progress |
-|---------|----------|
-|         |          |
+| Project                                                   | Progress               |
+|-----------------------------------------------------------|------------------------|
+| [VisageScript](advanced-projects/VisageScript/index.html) | Version 0.0.1 Complete |

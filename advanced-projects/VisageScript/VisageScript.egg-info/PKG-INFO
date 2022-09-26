@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: VisageScript
+Version: 0.0.1
+Summary: This package contains implementation of VisageScript programming language.
+Home-page: https://github.com/PythonApkDev/PythonApkDev.github.io/tree/main/advanced-projects/VisageScript
+Author: PythonApkDev
+Author-email: pythonapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # VisageScript (Version 0.0.1)
 
 **VisageScript** is a programming language coded in Python with a mix of Python, Java, JavaScript, 
@@ -13,9 +26,11 @@ For dynamic-typed variable declaration, we use the keyword 'var'. In this case, 
 of the variable to another type's value. The following code shows that the variable 'a' can have its type changed 
 from 'int' to 'float'.
 
-| <!-- -->                           |
-|------------------------------------|
-| var a = 5;<br>a = 6.5;<br>print a; |
+```
+var a = 5;
+a = 6.5;
+print a
+```
 
 The code above will print the value '6.5'.
 
@@ -27,26 +42,28 @@ and comparison operations can be applied between them.
 
 The following code adds an 'int' and a 'float'.
 
-| <!-- -->                                     |
-|----------------------------------------------|
-| int a = 5;<br>float b = 6.5;<br>print a + b; |
+```
+int a = 5;
+float b = 6.5;
+print a + b
+```
 
 The code above will print the value '11.5'.
 
 ## Executable File
 
 The executable file for VisageScript runner can be downloaded at 
-[Executable File](https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/dist/VisageScript/VisageScript).
+https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/dist/VisageScript/VisageScript.
 
 ## Source Code
 
 Python code used to create VisageScript programming language is available in 
-[Source Code](https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/VisageScript.py).
+https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/VisageScript.py.
 
 ## Unit Tests
 
 Python unit tests created using Python's "unittest" module, testing some VisageScript code snippets is available in 
-[Unit Tests](https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/VisageScript_tests.py).
+https://github.com/PythonApkDev/PythonApkDev.github.io/blob/main/advanced-projects/VisageScript/VisageScript/VisageScript_tests.py.
 
 ## Installation
 

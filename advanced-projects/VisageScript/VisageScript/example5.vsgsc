@@ -1,0 +1,8 @@
+float a = 5.23;
+float b = 6.44;
+print a;
+print b;
+print a * b;
+print b - a;
+print a + b;
+print a * b * 4.44;

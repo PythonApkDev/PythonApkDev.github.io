@@ -1,0 +1,8 @@
+1. Version 0.0.1 (Release Date: Monday, 26 September 2022):
+- The language allows usage of 'var' keyword for dynamic-typed variables.
+- 'int' and 'float' types are provided.
+- Operations between numbers in the language are allowed.
+
+2. Version 0.0.2 (Release Date: TBA):
+- 'string' variable types added.
+- Operations between strings in the language are allowed.

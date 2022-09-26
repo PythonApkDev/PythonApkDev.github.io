@@ -1,0 +1,6 @@
+int a = 5;
+float b = 42.1332;
+print a * b;
+print b - a;
+print a + b;
+print a * b * 3;
